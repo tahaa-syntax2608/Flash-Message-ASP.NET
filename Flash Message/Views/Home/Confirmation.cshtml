@@ -1,0 +1,9 @@
+﻿<!-- Views/Home/Confirmation.cshtml -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+<h2>Confirmation Page</h2>
+<p>Your feedback has been submitted successfully.</p>

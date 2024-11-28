@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TAHA\\OneDrive\\Desktop\\Assignment\\Flash Message\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FE3685-681B-412B-B22A-BC9123CB2542}|Flash Message\\Flash Message.csproj|c:\\users\\taha\\onedrive\\desktop\\assignment\\flash message\\flash message\\views\\home\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7FE3685-681B-412B-B22A-BC9123CB2542}|Flash Message\\Flash Message.csproj|solutionrelative:flash message\\views\\home\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FE3685-681B-412B-B22A-BC9123CB2542}|Flash Message\\Flash Message.csproj|c:\\users\\taha\\onedrive\\desktop\\assignment\\flash message\\flash message\\views\\home\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7FE3685-681B-412B-B22A-BC9123CB2542}|Flash Message\\Flash Message.csproj|solutionrelative:flash message\\views\\home\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FE3685-681B-412B-B22A-BC9123CB2542}|Flash Message\\Flash Message.csproj|c:\\users\\taha\\onedrive\\desktop\\assignment\\flash message\\flash message\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7FE3685-681B-412B-B22A-BC9123CB2542}|Flash Message\\Flash Message.csproj|solutionrelative:flash message\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\TAHA\\OneDrive\\Desktop\\Assignment\\Flash Message\\Flash Message\\Views\\Home\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Flash Message\\Views\\Home\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\TAHA\\OneDrive\\Desktop\\Assignment\\Flash Message\\Flash Message\\Views\\Home\\Confirmation.cshtml",
+              "RelativeToolTip": "Flash Message\\Views\\Home\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T10:25:04.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\TAHA\\OneDrive\\Desktop\\Assignment\\Flash Message\\Flash Message\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Flash Message\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\TAHA\\OneDrive\\Desktop\\Assignment\\Flash Message\\Flash Message\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Flash Message\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:17:16.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\TAHA\\OneDrive\\Desktop\\Assignment\\Flash Message\\Flash Message\\Views\\Home\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "Flash Message\\Views\\Home\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\TAHA\\OneDrive\\Desktop\\Assignment\\Flash Message\\Flash Message\\Views\\Home\\Feedback.cshtml",
+              "RelativeToolTip": "Flash Message\\Views\\Home\\Feedback.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T10:16:27.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
